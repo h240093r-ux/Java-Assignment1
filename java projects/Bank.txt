@@ -1,0 +1,12 @@
+John Doe deposited 200.0. Balance: 700.0
+John Doe withdrew 100.0. Balance: 600.0
+John Doe deposited 200.0. Balance: 700.0
+John Doe withdrew 100.0. Balance: 600.0
+John Doe deposited 200.0. Balance: 700.0
+John Doe withdrew 100.0. Balance: 600.0
+John Doe deposited 200.0. Balance: 700.0
+John Doe withdrew 100.0. Balance: 600.0
+Takunda Tafadzwa deposited 200.0. Balance: 700.0
+Takunda Tafadzwa withdrew 100.0. Balance: 600.0
+Takunda Tafadzwa deposited 200.0. Balance: 700.0
+Takunda Tafadzwa withdrew 100.0. Balance: 600.0
